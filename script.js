@@ -14,3 +14,5 @@ let idade;
 let nome;
 
 console.log (numero);
+
+prompt ("Digite seu nome");
