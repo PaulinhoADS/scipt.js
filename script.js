@@ -8,12 +8,9 @@ console.log (numero);
 
 alert ("Não é possível configurar seu tempo de permanencia na tela");
 
-let numero = 25;
 let chute;
 let idade;
 let nome;
-
-console.log (numero);
 
 nome = console.log(prompt("Digite seu nome"));
 
