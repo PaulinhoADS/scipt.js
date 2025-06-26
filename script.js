@@ -17,3 +17,12 @@ console.log (numero);
 
 nome = console.log(prompt("Digite seu nome"));
 
+let entrada = prompt("Digite um numero inteiro");
+let numero = parseInt(entrada);
+
+if (Number.isInteger(numero)){
+  console.log("Obrigado!vc digitou nº inteiro");
+}else{
+  console.log("por favor, digite nº inteiro valido");
+}
+
