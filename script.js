@@ -16,3 +16,5 @@ let nome;
 console.log (numero);
 
 prompt ("Digite seu nome");
+console.log (nome);
+
